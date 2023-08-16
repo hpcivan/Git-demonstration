@@ -12,3 +12,11 @@ while True:
            pygame.quit()
            sys.exit()
    pygame.display.update()
+
+#this is a comment
+#this is another comment
+
+#these are more comment
+print("Hello world")
+
+print("on the left are the changes in green")
